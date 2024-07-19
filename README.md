@@ -6,14 +6,13 @@ Analytics internship at The Sparks Foundation.
 The objective of this report was to perform Exploratory Data Analysis using the dataset ‘Sample Superstore’ and as a business manager.**
 Main Objective** of the Project The objective is to enhance the Superstore's profitability by:  Increasing sales in high-performing regions (e.g., Pennsylvania, Ohio) and improving underperforming ones (e.g., Vermont, West Virginia). Focusing on top-performing product categories (Technology, Furniture) while boosting low-performing ones (Office Supplies).
 Tool used : Microsoft Power BI
- 
-Key features of the dashboard:
- 
-Donut charts and bar graphs to show sales and quantity sold by categories and dimensions.
-A sales overview table with custom conditional formatting to show products with highest sales, quantity sold and profit % indicators.
-Added dedicated geographical analysis page to identify the sales pattern in different regions and areas of the country with a dynamic map visual.
+ ![TSF - III data Exploratory data analysis](https://github.com/user-attachments/assets/5ba62363-2d97-4f17-9982-d14c1849df52)
+
+
 
 Please do share your views and feedback on this dashboard.
+![supersales report](https://github.com/user-attachments/assets/eb9a7181-8db3-48d3-872b-22cafcfc4391)
+
 
 
 

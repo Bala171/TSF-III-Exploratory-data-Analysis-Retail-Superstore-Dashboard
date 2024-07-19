@@ -1,0 +1,2 @@
+# TSF-III-Exploratory-data-Analysis-Retail-Superstore-Dashboard
+Objective of the Project The objective is to enhance the Superstore's profitability by:  Increasing sales in high-performing regions (e.g., Pennsylvania, Ohio) and improving underperforming ones (e.g., Vermont, West Virginia). Focusing on top-performing product categories (Technology, Furniture) while boosting low-performing ones (Office Supplies).
